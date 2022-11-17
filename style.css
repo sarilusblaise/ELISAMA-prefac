@@ -1,0 +1,13 @@
+.card-container {
+  padding: 1rem;
+}
+
+.card-container img {
+  width: 30%;
+}
+
+body {
+  width: 100vw;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
